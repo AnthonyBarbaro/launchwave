@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.launchwavedigital.com/sitemap.xml
+Sitemap: https://d3lv4y9vi3cmiw.cloudfront.net/sitemap.xml
