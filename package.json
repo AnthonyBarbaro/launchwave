@@ -1,0 +1,40 @@
+{
+  "name": "launchwave-digital",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "generate:seo": "tsx scripts/generate-seo-files.ts",
+    "build": "npm run generate:seo && next build",
+    "lint": "eslint . --max-warnings=0",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.758.0",
+    "@aws-sdk/client-ses": "^3.758.0",
+    "@aws-sdk/lib-dynamodb": "^3.758.0",
+    "framer-motion": "^11.18.2",
+    "lucide-react": "^0.468.0",
+    "next": "16.2.4",
+    "openai": "^4.104.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "recharts": "^2.15.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "autoprefixer": "^10.4.20",
+    "@eslint/eslintrc": "^3.3.1",
+    "eslint": "^9.39.1",
+    "eslint-config-next": "16.2.4",
+    "postcss": "^8.5.12",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "overrides": {
+    "postcss": "^8.5.12"
+  }
+}

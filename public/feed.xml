@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>LaunchWave Digital Blog</title>
+    <link>https://www.launchwavedigital.com/blog</link>
+    <description>We build websites, AI lead systems, automations, and SEO engines that help businesses get more leads and close faster.</description>
+    <language>en-us</language>
+    <item>
+      <title>How to Launch a Business Website in 48 Hours</title>
+      <link>https://www.launchwavedigital.com/blog/how-to-launch-business-website-in-48-hours</link>
+      <guid>https://www.launchwavedigital.com/blog/how-to-launch-business-website-in-48-hours</guid>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
+      <description>A practical launch plan for getting a focused, conversion-ready website live quickly without creating chaos.</description>
+    </item>
+    <item>
+      <title>How AI Chatbots Qualify Website Leads Automatically</title>
+      <link>https://www.launchwavedigital.com/blog/ai-chatbots-for-lead-qualification</link>
+      <guid>https://www.launchwavedigital.com/blog/ai-chatbots-for-lead-qualification</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+      <description>How AI assistants can ask better intake questions, score fit, and guide qualified prospects toward booking or contact.</description>
+    </item>
+    <item>
+      <title>Programmatic SEO for Small Businesses: How to Scale Search Traffic</title>
+      <link>https://www.launchwavedigital.com/blog/programmatic-seo-for-small-businesses</link>
+      <guid>https://www.launchwavedigital.com/blog/programmatic-seo-for-small-businesses</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+      <description>A practical way to create scalable service, industry, and use case pages without thin or spammy content.</description>
+    </item>
+    <item>
+      <title>Website Conversion Checklist: What Every Business Site Needs</title>
+      <link>https://www.launchwavedigital.com/blog/website-conversion-checklist</link>
+      <guid>https://www.launchwavedigital.com/blog/website-conversion-checklist</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
+      <description>A concise checklist for turning website traffic into calls, qualified leads, bookings, and measurable opportunities.</description>
+    </item>
+    <item>
+      <title>What to Track After Launching a New Website</title>
+      <link>https://www.launchwavedigital.com/blog/what-to-track-after-launching-a-website</link>
+      <guid>https://www.launchwavedigital.com/blog/what-to-track-after-launching-a-website</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+      <description>The metrics and events that help you learn whether a new website is actually creating business value.</description>
+    </item>
+  </channel>
+</rss>
